@@ -37,7 +37,7 @@ Copy the content in `run_transpose_tests.sql`, and paste it into the Run SQL Que
 
 ![mytable2.png](images/mytable2.png)
 
-`mytable3': we have transposed `mytable2` into this vertical table.
+`mytable3`: we have transposed `mytable2` into this vertical table.
 
 ![mytable3.png](images/mytable3.png)
 
